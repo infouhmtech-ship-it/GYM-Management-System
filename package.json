@@ -1,0 +1,7 @@
+{
+  "name": "apex-athletic-club",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/dev.mjs"
+  }
+}
